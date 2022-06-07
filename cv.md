@@ -41,6 +41,7 @@ Code example
 Experience
 ----------
 
+Coming soon ...
 
 Education and courses
 ---------------------
@@ -54,7 +55,7 @@ Education and courses
 Languages
 ---------
 
-English – pre-intermediate
+English â€“ pre-intermediate
 
   
 <img src="https://rs.school/images/rs_school_js.svg" style="" width="75" alt="RSS logo">
