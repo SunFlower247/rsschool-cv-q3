@@ -11,7 +11,7 @@
 Contact
 -------
 
-* **Phone:** +38099zero415160
+* **Phone:** +38zero99zero41516zero
 * **E-mail:**  sunflower247@gmail.com
 * **GitHub:** [sunflower247](https://github.com/sunflower247)
 
@@ -46,9 +46,10 @@ Coming soon ...
 Education and courses
 ---------------------
 
+* [HTML Academy](https://htmlacademy.ru/)
 * [FreeCodeCamp](https://www.freecodecamp.org/)
 * [Udemy](https://www.udemy.com/)
-* [HTML Academy](https://htmlacademy.ru/)
+
 
 
 
